@@ -1,0 +1,22 @@
+Timestamp,Name,Location,Symptoms,Triage Decision,Risk Score,Risk Level,Village,Decision,Score
+2025-06-12 05:25:05,abc,bihar,"fever, vomiting",Give ORS and Monitor at home,3.0,🟢 Low,,,
+2025-06-12 08:43:52,ABC XYZ,Banglore,"fever, body pain",Give paracetamol and Monitor,2.0,🟢 Low,,,
+2025-06-12 10:37:34,harsh,bengaluru,"fever, vomiting, body pain",Give paracetamol and Monitor,4.0,🟡 Moderate,,,
+2025-06-23 15:04:13,xyzuhv,Bengaluru,"fever, diarrhea",Give ORS and Monitor at home,3.0,🟢 Low,,,
+,fghj,,"['rash', 'fever']",,,,Banglore,Refer to doctor (Possible dengue/measles),6.0
+2025-06-23 15:41:57,iuhgrwuio,bengluru,"vomiting, fever",Give ORS and Monitor at home,6,🟡 Moderate
+2025-06-24 11:07:02,charoo ,gurgaon ,vomiting,Give ORS and Monitor at home,2,🟢 Low
+2025-06-24 11:07:12,charoo ,gurgaon ,vomiting,Give ORS and Monitor at home,4,🟡 Moderate
+2025-06-24 11:07:47,charoo ,gurgaon ,vomiting,Give ORS and Monitor at home,4,🟡 Moderate
+2025-06-24 11:07:54,charoo ,gurgaon ,vomiting,Give ORS and Monitor at home,4,🟡 Moderate
+2025-06-24 11:07:57,charoo ,gurgaon ,vomiting,Give ORS and Monitor at home,4,🟡 Moderate
+2025-06-24 11:08:22,charoo ,gurgaon ,"breathing difficulty, unconscious",🚨 Emergency! Refer to doctor immediately,11,🔴 High
+2025-06-24 11:09:34,charoo ,gurgaon ,"fever, diarrhea, vomiting",Refer to doctor (Persistent fever),9,🔴 High
+2025-06-25 23:26:45,harsh agr,blr,"fever, rash",Refer to doctor (Possible dengue/measles),7,🔴 High
+2025-07-02 10:33:33,um,go,fever,Refer to doctor (High fever),3,🟢 Low
+2025-07-02 10:33:40,um,go,fever,Refer to doctor (High fever),5,🟡 Moderate
+2025-07-02 10:34:09,um,go,fever,Monitor and check temperature regularly,3,🟢 Low
+2025-07-02 10:34:32,um,go,fever,Monitor and check temperature regularly,3,🟢 Low
+2025-07-02 10:34:35,um,go,fever,Monitor and check temperature regularly,3,🟢 Low
+2025-07-02 10:39:44,name 1,village2,"fever, diarrhea",Refer to doctor (Persistent fever),5,🟡 Moderate
+2025-07-02 14:29:24,xyz ,blr,fever,Refer to doctor (High fever),5,🟡 Moderate
